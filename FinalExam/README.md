@@ -52,3 +52,6 @@
 #### ERD - диаграмма
 
 ![ErdDiagramma.jpg](img/ErdDiagramma.jpg)
+
+6. подключенном MySQL репозитории создать базу данных “Друзья человека”
+[Файл 'база данных MySQL'](FinalExam/dbHumanFriends.sql)
