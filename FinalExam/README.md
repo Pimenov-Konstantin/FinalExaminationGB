@@ -54,4 +54,6 @@
 ![ErdDiagramma.jpg](img/ErdDiagramma.jpg)
 
 6. подключенном MySQL репозитории создать базу данных “Друзья человека”
-[Файл 'база данных MySQL'](FinalExam/dbHumanFriends.sql)
+```
+[Файл 'база данных MySQL'](https://github.com/Pimenov-Konstantin/FinalExaminationGB/blob/cf3bbe878613f7a5d66aa43ae2688cf19df41902/FinalExam/dbHumanFriends.sql)
+```
